@@ -55,6 +55,11 @@ body {
     line-height: 1.8;
     color: #333;
     background-color: #d2d2d2;
+    background-image: url('https://i.imgur.com/1SucVtK.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
     padding: 0 10px;
     font-weight: normal;
 }
